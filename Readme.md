@@ -8,6 +8,6 @@ Machine learning models were applied for prediction of loan application quality.
 ##### ROC Curve
 ROC curve was calculated for the rf model, and was found that the area under the curve = 0.87
 
-[!ROC](Images/ROC.png)
+![ROC](Images/ROC.png)
 
 This shows that rf model was doing a decent job of prediction of loan quality on test data.
